@@ -4,7 +4,7 @@
 # assign variable resp with an array of responses
 resp = ["Bonjour","Hola","Ciao"]
 
-# greets the user and explains the objective
+# greet the user and explain the objective
 def startup():
 	print "Hello World"
 	print "Choose a language and I'll greet you in that language"
